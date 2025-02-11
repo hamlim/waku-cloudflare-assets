@@ -7,3 +7,7 @@ dist
 *.pem
 
 .wrangler/
+
+# I think waku generates this at the moment
+# but we have a wrangler.jsonc file already
+wrangler.toml
